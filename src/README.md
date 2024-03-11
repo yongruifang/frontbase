@@ -3,7 +3,7 @@ home: true
 layout: BlogHome
 icon: home
 title: frontbase
-heroImage: https://theme-hope-assets.vuejs.press/logo.svg
+heroImage: /frontbase.webp
 heroText: 知识库
 heroFullScreen: true
 tagline: 个人前端知识库
@@ -28,7 +28,7 @@ projects:
     desc: 偶尔当个up主
     link: https://space.bilibili.com/523415551/video
 
-  - icon: https://theme-hope-assets.vuejs.press/logo.svg
+  - icon: bomb
     name: 写个扫雷吧
     desc: vue和tailwincss
     link: https://github.com/minesweeper

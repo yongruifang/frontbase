@@ -1,8 +1,8 @@
 ---
 icon: circle-info
-cover: /assets/images/cover3.jpg
+cover: /assets/images/learn.png
 ---
 
-# 个人
+# 我的信条
 
-永锐。时刻在线，保持敏锐。
+终身学习。时刻在线，保持敏锐。
